@@ -1,6 +1,8 @@
 # Guix - The best operating system
 <img src="https://luis-felipe.gitlab.io/media/badges/gnu-guile-made.svg" alt="LISP" href="https://www.gnu.org/software/guile/" >
 
+<img src="https://i.ibb.co/DkRT4kr/follow-me.png" alt="Keep it Simple!">
+
 ## Scripts
 |     Dotfiles   | 
 |----------------|
