@@ -1,0 +1,10 @@
+render:
+  antialiasing: subpixel
+font:
+  normal:
+    family: Iosevka 
+    style: Regular
+  size: 16.0
+window:
+  opacity: 0.70
+  decorations: Full
